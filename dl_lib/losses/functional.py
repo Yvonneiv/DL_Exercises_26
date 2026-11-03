@@ -45,3 +45,5 @@ def rmse(y_true, y_pred):
     result = np.sqrt(mse_result)
     
     return float(result)
+
+
